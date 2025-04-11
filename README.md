@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/NUMAIRn/portfolio/main/images/IMG_20240426_121530_825-Photoroom.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/NUMAIRn/portfolio/main/images/banner.png"  />
 </div>
 
 ###
